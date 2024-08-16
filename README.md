@@ -1,7 +1,3 @@
-Here's a template for your `README.md` file for the snake game project:
-
----
-
 # Snake Game with Voice Commands
 
 This project is a classic Snake game with voice command inputs, built using C++, Raylib, and TorchScript. The game allows players to control the snake using simple voice commands. This project was submitted for a hackathon.
