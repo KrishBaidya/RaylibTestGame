@@ -47,7 +47,7 @@ The Snake game is a well-known classic, where the player maneuvers a snake to ea
 8. Run the Project
 
 ## Usage
-
+- **Download the Release `Window Release`. This will download a `.zip` file. Unzip and run the exe.  
 - **Starting the Game:** Run the game executable.
 - **Voice Commands:** Use your microphone to give voice commands:
   - "up" - Moves the snake up
