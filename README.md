@@ -14,6 +14,8 @@ This project is a classic Snake game with voice command inputs, built using C++,
 
 The Snake game is a well-known classic, where the player maneuvers a snake to eat food, growing in size with each piece of food eaten. This project adds a unique twist by integrating voice commands, allowing the player to control the snake using voice inputs like "up", "down", "left", and "right".
 
+I used https://www.kaggle.com/datasets/maitessamahmed/train-commands for training the model
+
 ## Build
 ### Prerequisites
 
@@ -43,7 +45,7 @@ The Snake game is a well-known classic, where the player maneuvers a snake to ea
 8. Run the Project
 
 ## Usage
-- **Download the Release `Window Release`. This will download a `.zip` file. Unzip and run the exe.  
+- **Download** the Release `Window Release`. This will download a `.zip` file. Unzip and run the exe.  
 - **Starting the Game:** Run the game executable.
 - **Voice Commands:** Use your microphone to give voice commands:
   - "up" - Moves the snake up
