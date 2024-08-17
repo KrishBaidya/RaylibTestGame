@@ -28,8 +28,8 @@ I used https://www.kaggle.com/datasets/maitessamahmed/train-commands for trainin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/snake-voice-game.git
-    cd snake-voice-game
+    git clone https://github.com/KrishBaidya/RaylibTestGame
+    cd RaylibTestGame
     ```
 2. You can train the model from the given PytorchModel.ipynb
 3. Download Libtorch from [Pytorch's Website.](https://pytorch.org/get-started/locally/) Make sure to download Release Version.
